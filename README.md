@@ -1,1 +1,1 @@
-# PDF-Text-Summarizer
+# Text-Summarization-Extracting-Key-Insights-from-New-Articles
